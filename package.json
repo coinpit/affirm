@@ -1,0 +1,28 @@
+{
+  "name": "affirm",
+  "version": "1.0.0",
+  "description": "Tiny replacement for assert suitable for use in browsers. Supports return status codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coinpit/affirm.git"
+  },
+  "keywords": [
+    "assert",
+    "affirm",
+    "test",
+    "check"
+  ],
+  "author": "coinpit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coinpit/affirm/issues"
+  },
+  "homepage": "https://github.com/coinpit/affirm#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
